@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs>
+        <style>.cls-1{fill:#23c3e8;}</style>
+    </defs>
+    <g>
+        <rect class="cls-1" y="6.17" width="15.93" height="5"/>
+        <rect class="cls-1" x="8.85" y="12.67" width="15.15" height="5"/>
+        <rect class="cls-1" y="12.67" width="7.35" height="5"/>
+        <path class="cls-1" d="M8.85,4.67H24V2.4A2.4,2.4,0,0,0,21.6,0H8.85Z"/>
+        <path class="cls-1" d="M7.35,4.67V0H2.4A2.4,2.4,0,0,0,0,2.4V4.67Z"/>
+        <path class="cls-1" d="M15.93,19.17H0V21.6A2.4,2.4,0,0,0,2.4,24H15.93Z"/>
+        <path class="cls-1" d="M17.43,19.17V24H21.6A2.4,2.4,0,0,0,24,21.6V19.17Z"/>
+        <rect class="cls-1" x="17.43" y="6.17" width="6.57" height="5"/>
+    </g>
+</svg>
